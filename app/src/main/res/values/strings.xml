@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Conversor</string>
+    <string name="appExplanation">Change Celsius degrees to Fahrenheit degrees, and Fahrenheit degrees to Celsius degrees.</string>
+    <string name="celsius">CELSIUS</string>
+    <string name="fahrenheit">Fahreinheit</string>
+    <string name="convert_degrees">Convert Degrees</string>
+    <string name="degrees">Degrees</string>
+</resources>
